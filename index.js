@@ -21,4 +21,8 @@ if (option == "sign") {
 } else {
   console.log("option needs to be 'sign' or 'verify' ");
 }
+<<<<<<< HEAD
 console.log("good evening, every one");
+=======
+console.log("good evnenig, I am second brach");
+>>>>>>> second
