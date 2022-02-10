@@ -25,4 +25,5 @@ console.log("good evnenig, I am second brach");
 
 console.log("hola, estas listo para seguir aprendiendo!")
 
+console.log("javascript es lo maximo")
 //terminamos
