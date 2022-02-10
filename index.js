@@ -21,3 +21,4 @@ if (option == "sign") {
 } else {
   console.log("option needs to be 'sign' or 'verify' ");
 }
+console.log("good evening, every one");
